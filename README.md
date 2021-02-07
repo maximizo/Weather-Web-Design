@@ -54,8 +54,6 @@ Small screen:
 
 #### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
-
 Large screen:
 
 ![visualize page large screen](Images/visualize-lg.png)
@@ -71,7 +69,3 @@ Large screen:
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
