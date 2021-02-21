@@ -1,6 +1,6 @@
-## Project Description
+## Visualizing Weather Patterns
 
-In this project, I created a visualization dashboard website for weather analysis that I previously did in the file "Resources/cities.csv".
+I created a visualization dashboard website for weather analysis that I previously did. This previous analysis can be found here: "Resources/cities.csv".
 
 In building this dashboard, I created individual pages for each plot and a means by which to navigate between them. These pages will contain the visualizations and their corresponding explanations. There is also have a landing page, a page where we can see a comparison of all of the plots, and another page where you can view the data I used to build them.
 
